@@ -1,5 +1,5 @@
 
-This folder cobtains our Matlab implementation of the new
+This folder contains our Matlab implementation of the new
 edge-wise coupled (EWC) non-homogeneous dynamic Bayesian nework (NH-DBN) model.
 
 The Matlab code is supplementary material for our paper:
