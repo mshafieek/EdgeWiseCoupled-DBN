@@ -3,11 +3,9 @@ This folder contains our Matlab implementation of the new edge-wise coupled (EWC
 The Matlab code is supplementary material for our paper: 'Non-homogeneous dynamic Bayesian networks with edge-wise sequentially coupled parameters'
 accepted by Bioinformatics on 27 August 2019
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-HOW TO GET STARTED WITH THE MATLAB CODE:
+# HOW TO GET STARTED WITH THE MATLAB CODE:
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 (1) COPY ALL FILES INTO YOUR WORKING DIRECTORY
 
@@ -15,10 +13,8 @@ HOW TO GET STARTED WITH THE MATLAB CODE:
 
 (3) Open the script file 'SCRIPT_EWC_NHDBN.m'
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 The file 'SCRIPT_EWC_NHDBN.m' contains a worked example with Matlab commands and instructions.
 
 The contents of the file 'SCRIPT_EWC_NHDBN.m' can be copied&pasted line-by-line into the Matlab command window.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
